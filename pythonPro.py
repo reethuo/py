@@ -1,4 +1,4 @@
-def fun(*args,**kwargs):
+def fu(*args,**kwargs):
     print('positional args: ',args)
     print('keyword args: ',kwargs)
     print(type(args))
